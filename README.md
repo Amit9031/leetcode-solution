@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Amit9031/leetcode-solution/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
