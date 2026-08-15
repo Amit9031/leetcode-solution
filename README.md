@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/Amit9031/leetcode-solution/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/Amit9031/leetcode-solution/tree/master/0205-isomorphic-strings) |
 ## Backtracking
 |  |
 | ------- |
