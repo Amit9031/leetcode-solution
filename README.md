@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/Amit9031/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Amit9031/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Amit9031/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
@@ -83,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Amit9031/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
