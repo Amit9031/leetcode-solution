@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Amit9031/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Amit9031/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Amit9031/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -138,4 +140,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amit9031/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
