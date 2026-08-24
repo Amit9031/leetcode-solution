@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amit9031/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amit9031/leetcode-solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Amit9031/leetcode-solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amit9031/leetcode-solution/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Manacher
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amit9031/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amit9031/leetcode-solution/tree/master/0055-jump-game) |
 ## Monotonic Stack
 |  |
