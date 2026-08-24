@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Amit9031/leetcode-solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Amit9031/leetcode-solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amit9031/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Algorithm X
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amit9031/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit9031/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
