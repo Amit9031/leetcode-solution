@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amit9031/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amit9031/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amit9031/leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Algorithm X
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amit9031/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Amit9031/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amit9031/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amit9031/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
