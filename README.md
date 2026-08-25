@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amit9031/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amit9031/leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Algorithm X
 |  |
 | ------- |
@@ -179,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amit9031/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit9031/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amit9031/leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0056-merge-intervals) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amit9031/leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quicksort
 |  |
 | ------- |
