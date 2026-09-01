@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amit9031/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amit9031/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Amit9031/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amit9031/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amit9031/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Amit9031/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amit9031/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amit9031/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Amit9031/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amit9031/leetcode-solution/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amit9031/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
