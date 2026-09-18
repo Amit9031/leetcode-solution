@@ -1,78 +1,53 @@
 class Solution {
 public:
+    void solve(int r, int c, vector<vector<int>>& maze, vector<vector<int>>& vis,
+               string path, vector<string>& ans, int n) {
+
+        if (r == n - 1 && c == n - 1) {
+            ans.push_back(path);
+            return;
+        }
+
+        // Down
+        if (r + 1 < n && maze[r + 1][c] == 1 && !vis[r + 1][c]) {
+            vis[r][c] = 1;
+            solve(r + 1, c, maze, vis, path + 'D', ans, n);
+            vis[r][c] = 0;
+        }
+
+        // Left
+        if (c - 1 >= 0 && maze[r][c - 1] == 1 && !vis[r][c - 1]) {
+            vis[r][c] = 1;
+            solve(r, c - 1, maze, vis, path + 'L', ans, n);
+            vis[r][c] = 0;
+        }
+
+        // Right
+        if (c + 1 < n && maze[r][c + 1] == 1 && !vis[r][c + 1]) {
+            vis[r][c] = 1;
+            solve(r, c + 1, maze, vis, path + 'R', ans, n);
+            vis[r][c] = 0;
+        }
+
+        // Up
+        if (r - 1 >= 0 && maze[r - 1][c] == 1 && !vis[r - 1][c]) {
+            vis[r][c] = 1;
+            solve(r - 1, c, maze, vis, path + 'U', ans, n);
+            vis[r][c] = 0;
+        }
+    }
+
     vector<string> ratInMaze(vector<vector<int>>& maze) {
-        
         int n = maze.size();
         vector<string> ans;
-        
+
         if (maze[0][0] == 0 || maze[n - 1][n - 1] == 0)
             return ans;
-        
-        queue<pair<pair<int, int>, pair<string, vector<vector<int>>>>> q;
-        
-        vector<vector<int>> visited(n, vector<int>(n, 0));
-        visited[0][0] = 1;
-        
-        q.push({{0, 0}, {"", visited}});
-        
-        while (!q.empty()) {
-            
-            int i = q.front().first.first;
-            int j = q.front().first.second;
-            
-            string s = q.front().second.first;
-            vector<vector<int>> vis = q.front().second.second;
-            
-            q.pop();
-            
-            if (i == n - 1 && j == n - 1) {
-                ans.push_back(s);
-                continue;
-            }
-            
-            // Down
-            if (i + 1 < n && maze[i + 1][j] == 1 &&
-                vis[i + 1][j] == 0) {
-                
-                vector<vector<int>> newVis = vis;
-                newVis[i + 1][j] = 1;
-                
-                q.push({{i + 1, j}, {s + 'D', newVis}});
-            }
-            
-            // Up
-            if (i - 1 >= 0 && maze[i - 1][j] == 1 &&
-                vis[i - 1][j] == 0) {
-                
-                vector<vector<int>> newVis = vis;
-                newVis[i - 1][j] = 1;
-                
-                q.push({{i - 1, j}, {s + 'U', newVis}});
-            }
-            
-            // Right
-            if (j + 1 < n && maze[i][j + 1] == 1 &&
-                vis[i][j + 1] == 0) {
-                
-                vector<vector<int>> newVis = vis;
-                newVis[i][j + 1] = 1;
-                
-                q.push({{i, j + 1}, {s + 'R', newVis}});
-            }
-            
-            // Left
-            if (j - 1 >= 0 && maze[i][j - 1] == 1 &&
-                vis[i][j - 1] == 0) {
-                
-                vector<vector<int>> newVis = vis;
-                newVis[i][j - 1] = 1;
-                
-                q.push({{i, j - 1}, {s + 'L', newVis}});
-            }
-        }
-        
-        sort(ans.begin(), ans.end());
-        
+
+        vector<vector<int>> vis(n, vector<int>(n, 0));
+
+        solve(0, 0, maze, vis, "", ans, n);
+
         return ans;
     }
 };
