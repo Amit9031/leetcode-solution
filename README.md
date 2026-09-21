@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit9031/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Amit9031/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Amit9031/leetcode-solution/tree/master/0205-isomorphic-strings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amit9031/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Amit9031/leetcode-solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Amit9031/leetcode-solution/tree/master/0077-combinations) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amit9031/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Amit9031/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0045-jump-game-ii) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Amit9031/leetcode-solution/tree/master/0051-n-queens) |
 ## Tree
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Amit9031/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amit9031/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amit9031/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Amit9031/leetcode-solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
