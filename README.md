@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Amit9031/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amit9031/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amit9031/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amit9031/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amit9031/leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Algorithm X
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Amit9031/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Amit9031/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Amit9031/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amit9031/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Amit9031/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
 |  |
