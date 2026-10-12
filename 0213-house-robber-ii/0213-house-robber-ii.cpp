@@ -30,10 +30,8 @@ public:
         vector<int> dp1(n, -1);
         vector<int> dp2(n, -1);
 
-        // Case 1: exclude last house
+        
         int case1 = solve(nums, 0, n - 2, dp1);
-
-        // Case 2: exclude first house
         int case2 = solve(nums, 1, n - 1, dp2);
 
         return max(case1, case2);
